@@ -43,7 +43,7 @@ The complete CAD model is publicly available on Onshape.
 
 **View the latest CAD model here:**
 
-> *(Insert your Onshape link here)*
+[Clickable Text](https://cad.onshape.com/documents/9d70dfa5fac691c40e89e638/w/ce8f7734c7ae2b1512f59fcc/e/6a26d96d694897951db47ca8?renderMode=0&uiState=6a4042096a68b1bfb91ffff8)
 
 The Onshape document contains the latest version of the project, including all Part Studios, Assemblies, and ongoing design revisions.
 
