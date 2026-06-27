@@ -78,10 +78,10 @@ docs/MYP_Personal_Project_Report.pdf
 
 ## Images
 
-current progress of CAD
+Current progress of CAD
 ![CAD progress](images/CAD.png)
 
-current progress of Build
+Current progress of Build
 ![build progress](images/build.jpg)
 
 ---
